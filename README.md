@@ -12,13 +12,16 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Cantents
 •[About](#about).
 
-•[Accounting Project]
+•
 
 
 
 
 
-## Portfolio Projects
-### In this section I will list 
+ ## Financial Statements
+### In this section, I provide key financial statements related to the project.
+
+- [General Entries](General_Entries.pdf): View the general entries for the project, detailing transactions, accounts, and dates.
+- [Ledger](Ledger.pdf)
 
 
