@@ -14,11 +14,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [Financial Statements](#financial-statements)
 
-- [Tally to Excel Financial Reporting Project](@#Tally-to-Excel-Financial-Reporting-Project)
-  
-- [Education](@#Education)
- 
-- [Contacts](@#Contacts)
+- [Tally to Excel Financial Reporting Project](#Tally-to-Excel-Financial-Reporting-Project)
+
+- [Education](#Education)
+
+- [Contacts](#Contacts)
 
 
 
