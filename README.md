@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Cantents
 •[About](#about).
 
-•
+•[Financial Statements](Financial_Statements)
 
 
 
@@ -31,7 +31,18 @@ This is a repository to showcase skills, share projects and track my progress in
   * Sold Inventory for Rs. 400000 on cash 10th Jan 2022.
   * Sold Inventory for Rs. 300000 on Credit to Mr. Kazon on 15th Jan 2022.
   * Paid Electricity Bill of Rs. 15000.
--[Trail Balance](Trail_Balance).
+ 
+- [Trail Balance](Trail_Balance).: This file contains the trial balance report, listing all ledger account balances as of the specified date.
+- [Income Statement](Income_Statement).: The income statement highlights the project's revenue sources, operating expenses, and net income, providing stakeholders with valuable information about its financial performance.
+- [Balance Sheet](Balance_Sheet).: This file provides the balance sheet for the project, presenting its assets, liabilities, and equity at a specific point in time.
+
+## Tally to Excel Financial Reporting Project
+### In this project, I extracted data from Tally ERP 9 and carefully formatted it into Excel.
+- [DayBook](Daybook).: This file contains the Daybook report, listing all transactions recorded within a specific period, including vouchers, dates, parties involved, and transaction amounts.
+- [Cash Flow Summery](Cash_Flow_Summery).:  This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
+
+
+
 
 
 
