@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 ## Budget vs. Actual Dashboard
- ![Budget vs. Actual Dashboard](images/Budget_vs._Actual_Dashboard.png)
+![Budget vs. Actual Dashboard](https://github.com/AartiPasi/Accounting_Portfolio/blob/bf7503080aa9388f00b86d64dda15ff246fd8e98/Budget_vs._Actual_Dashboard.png)
 
 
  ## Financial Statements
