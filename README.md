@@ -12,10 +12,14 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Cantents
 •[About](#about).
 
-•[Financial Statements](Financial_Statements)
+- [Financial Statements](#financial-statements)
+
+- [Tally to Excel Financial Reporting Project](@#Tally-to-Excel-Financial-Reporting-Project)
 
 
 
+## Budget vs. Actual Dashboard
+ ![Budget vs. Actual Dashboard](images/Budget_vs._Actual_Dashboard.png)
 
 
  ## Financial Statements
@@ -40,6 +44,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ### In this project, I extracted data from Tally ERP 9 and carefully formatted it into Excel.
 - [DayBook](Daybook).: This file contains the Daybook report, listing all transactions recorded within a specific period, including vouchers, dates, parties involved, and transaction amounts.
 - [Cash Flow Summery](Cash_Flow_Summery).:  This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
+
 
 
 
