@@ -53,7 +53,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - [DayBook](Day_Book.pdf).: This file contains the Daybook report, listing all transactions recorded within a specific period, including vouchers, dates, parties involved, and transaction amounts.
   
-  ![image](https://github.com/AartiPasi/Accounting_Portfolio/blob/08441b5fbe04ffe0be2831f0030b1c1b3e25a363/Day_Book.png)
+  ![image](https://github.com/user-attachments/assets/7a7d5581-11d8-47dc-b816-52e19366194d)
+
   
 - [Cash Flow Summery](Cash_Flow_Summery.pdf).: This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
 - 
