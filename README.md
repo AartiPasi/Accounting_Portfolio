@@ -50,8 +50,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Tally to Excel Financial Reporting Project
 ### In this project, I extracted data from Tally ERP 9 and carefully formatted it into Excel.
-- [DayBook](Day_Book).: This file contains the Daybook report, listing all transactions recorded within a specific period, including vouchers, dates, parties involved, and transaction amounts.
-- [Cash Flow Summery](Cash_Flow_Summery).: This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
+- [DayBook].: This file contains the Daybook report, listing all transactions recorded within a specific period, including vouchers, dates, parties involved, and transaction amounts.
+- [Cash Flow Summery].: This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
 
 ## Education
 
