@@ -57,8 +57,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
   
 - [Cash Flow Summery](Cash_Flow_Summery.pdf).: This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
-- 
-  ![image](https://github.com/AartiPasi/Accounting_Portfolio/blob/08441b5fbe04ffe0be2831f0030b1c1b3e25a363/Cash_Flow_Summery.png)
+
+  ![image](https://github.com/user-attachments/assets/ac850205-fc2b-4220-a49f-e866445e9dd3)
+
   
 ## Education
 
