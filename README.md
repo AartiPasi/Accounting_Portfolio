@@ -71,7 +71,7 @@ Viva College, Mumbai University
 
 ## Contacts
 
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/aartipasi
 - Email: aartipasi20@gmail.com
 
 
