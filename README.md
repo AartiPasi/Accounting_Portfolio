@@ -1,4 +1,4 @@
-# Aarti Pasi - Accounting Portfolio
+6# Aarti Pasi - Accounting Portfolio
 ## About
 Hi, I'm Aarti! A B.Com graduate from Viva College, Mumbai University, with expertise in SQL, Excel, and Power BI. I have a strong interest in financial data and a passion for utilizing data to uncover meaningful insights.
   
@@ -55,7 +55,7 @@ This is a repository to showcase skills, share projects and track my progress in
   ![image](https://github.com/AartiPasi/Accounting_Portfolio/blob/08441b5fbe04ffe0be2831f0030b1c1b3e25a363/Day_Book.pdf)
   
 - [Cash Flow Summery](Cash_Flow_Summery.pdf).: This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
-  ![image]()
+  ![image](https://github.com/AartiPasi/Accounting_Portfolio/blob/08441b5fbe04ffe0be2831f0030b1c1b3e25a363/Cash_Flow_Summery.pdf)
 ## Education
 
 Bachelor of Commerce                                                                                                  
