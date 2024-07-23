@@ -52,7 +52,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ### In this project, I extracted data from Tally ERP 9 and carefully formatted it into Excel.
 
 - [DayBook](Day_Book.pdf).: This file contains the Daybook report, listing all transactions recorded within a specific period, including vouchers, dates, parties involved, and transaction amounts.
-  ![image](Day_Book.pdf)
+  ![image](https://github.com/AartiPasi/Accounting_Portfolio/blob/08441b5fbe04ffe0be2831f0030b1c1b3e25a363/Day_Book.pdf)
 - [Cash Flow Summery](Cash_Flow_Summery.pdf).: This file contains the cash flow statement for the project, detailing cash inflows and outflows from operating, investing, and financing activities.
   ![image]()
 ## Education
