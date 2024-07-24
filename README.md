@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ![Budget vs. Actual Dashboard](https://github.com/AartiPasi/Accounting_Portfolio/blob/bf7503080aa9388f00b86d64dda15ff246fd8e98/Budget_vs._Actual_Dashboard.png)
 
 ## Excel Invoice Entry
- ![image](https://github.com/AartiPasi/Accounting_Portfolio/assets/160120926/6725ca5e-ffb8-4fd6-bbd5-a0b7bf8c86e6)
+ ![image](https://github.com/AartiPasi/Accounting_Portfolio/blob/main/Excel_Invoice_Entry.pdf).
 
 
 
